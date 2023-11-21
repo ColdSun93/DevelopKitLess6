@@ -9,4 +9,4 @@
 - Сохранить результат в HashMap<шаг теста, результат>
 - Вывести на экран статистику по победам и поражениям
 
-![экран](/src/main/resources/result.jpg)
+![экран](https://github.com/ColdSun93/DevelopKitLess6/blob/main/src/main/resources/result.JPG)
